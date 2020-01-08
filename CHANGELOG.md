@@ -1,3 +1,7 @@
+## [1.0.1] - 1/8/2020
+
+Fixes not working with new firebase messaging background stuff.
+
 ## [1.0.0] - 8/30/18
 
 Breaking Change: Adds support for AndroidX
